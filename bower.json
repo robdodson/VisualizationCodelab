@@ -1,0 +1,15 @@
+{
+  "name": "VisualizationCodelab",
+  "description": "",
+  "homepage": "",
+  "keywords": [
+  ],
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "paper-elements": "Polymer/paper-elements#master",
+    "google-map": "GoogleWebComponents/google-map#master",
+    "point-overlay": "brendankenny/point-overlay#master"
+  }
+}
